@@ -43,6 +43,7 @@ Thanks for your valuable contribution to the research community. 😃
 
 - [Books](#books)
 - [Surveys](#surveys)
+- [Benchmarks & Evaluation](#benchmarks--evaluation)
 - [Papers](#papers)
   - [2024](#2024)
   - [2023](#2023)
@@ -75,6 +76,12 @@ Thanks for your valuable contribution to the research community. 😃
 | 2009 | [Active Learning Literature Survey](https://minds.wisconsin.edu/handle/1793/60660) | Settles, Burr. | University of Wisconsin-Madison Department of Computer Sciences |  |  |
 
 
+
+# Benchmarks & Evaluation
+
+* [Navigating the Pitfalls of Active Learning Evaluation: A Systematic Framework for Meaningful Performance Assessment](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1ed4723f12853cbd02aecb8160f5e0c9-Abstract-Conference.html). Carsten T. Lüth, Till J. Bungert, Lukas Klein, Paul F. Jaeger. (NeurIPS, 2023)
+* [nnActive: A Framework for Evaluation of Active Learning in 3D Biomedical Segmentation](https://openreview.net/forum?id=AJAnmRLJjJ). Carsten T. Lüth, Jonas Traub, Kim-Celine Kahl, Till J. Bungert, Lukas Klein, Lena Krämer, Paul F. Jaeger, Fabian Isensee, Klaus H. Maier-Hein. (TMLR, 2025) [[Code]](https://github.com/MIC-DKFZ/nnActive) [[Results]](https://huggingface.co/nnActive)
+* [Finally Outshining the Random Baseline: A Simple and Effective Solution for Active Learning in 3D Biomedical Imaging](https://arxiv.org/abs/2601.13677). Carsten T. Lüth, Jonas Traub, Kim-Celine Kahl, Till J. Bungert, Lukas Klein, Lena Krämer, Paul F. Jaeger, Klaus H. Maier-Hein, Fabian Isensee. (TMLR, 2026) [[Code]](https://github.com/MIC-DKFZ/nnActive) [[Results]](https://huggingface.co/nnActive)
 
 # Papers
 
